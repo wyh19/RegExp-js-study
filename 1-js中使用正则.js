@@ -5,7 +5,7 @@
 
 //先定义一些测试用的字符串
 var str1 = 'wyh is being a better man'
-var str2 = 'good good study,day day up'
+var str2 = 'good good study,day day up :)'
 
 /**
  * demo1:定义一个字面正则,匹配包含wyh的字符串
